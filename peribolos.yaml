@@ -7,6 +7,7 @@ orgs:
     members_can_create_repositories: true
     admins:
       - gvauter
+      - hbraswelrh
       - jflowers
       - jpower432
       - marcusburghardt
@@ -15,7 +16,6 @@ orgs:
       - AlexXuan233
       - beatrizmcouto
       - bplaxco
-      - hbraswelrh
       - huiwangredhat
       - qduanmu
     repos:
@@ -70,13 +70,13 @@ orgs:
         privacy: closed
         maintainers:
           - gvauter
+          - hbraswelrh
           - jpower432
           - marcusburghardt
           - sonupreetam
         members:
           - AlexXuan233
           - beatrizmcouto
-          - hbraswelrh
           - huiwangredhat
           - qduanmu
         repos:
